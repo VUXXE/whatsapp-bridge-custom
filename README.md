@@ -1,5 +1,11 @@
 # WhatsApp Bridge (Custom)
 
+![Node.js](https://img.shields.io/badge/Node.js-20+-68a063?logo=node.js&logoColor=white)
+![Baileys](https://img.shields.io/badge/Baileys-v6.x-25D366?logo=whatsapp&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 A customized WhatsApp bridge built on [Baileys](https://github.com/WhiskeySockets/Baileys) with extended group management endpoints.
 
 ## Custom Endpoints Added
